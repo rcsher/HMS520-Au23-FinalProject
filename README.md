@@ -7,10 +7,9 @@ Details:
 Packages used: dplyr, ggplot2, tidyr
 Data cleaning/wrangling: arrange raw data in clear way R likes, remove any missing data/NAs, clean cloumn titles, etc.
 Data analysis: calculate the max and min effective drug concentrations, the IC50 (50% inbihition contration), the linearity, and the limit of detection (LOD) 
-Plots: 
-    1. Categorical dot plot of samples at known concentrations
-    2. Continuous dose-response curve from known concentrations
-    3. Logarithmic dose-response curve
-    4. 4-point logistical regression curve 
-    5. Baseline-adjusted logarithmic dose-response
+Plot(s): 
+    1. Continuous dose-response curve from known concentrations
+    2. Logarithmic dose-response curve
+    3. 4-point logistical regression curve 
+    4. Baseline-adjusted logarithmic dose-response
 These plots/iterations of these plots will be used for my upcoming research update for Laboratory Medicine Research Conference (LAB M502) at the end of January. 
